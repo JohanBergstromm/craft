@@ -1,0 +1,22 @@
+dateModified: 1671637844
+email:
+  fromEmail: jbergstromm@gmail.com
+  fromName: testsite
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    54e4bf6d-1631-4eae-9370-4e6146e86e3b: Common
+    8439740d-f148-4479-bb5f-9734e8597547: testsite
+    a32a7c2c-bae9-47c7-8944-75ed3c7d1ad6: testsite
+system:
+  edition: solo
+  live: true
+  name: testsite
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
